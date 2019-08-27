@@ -21,6 +21,15 @@ body{
 }
 .mock-image{
     margin-right: 10px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mock-image :nth-child(1){
+    border-bottom: 2px solid white;
+    width: 50%;
+    margin: auto;
 }
 
 .link-color{
