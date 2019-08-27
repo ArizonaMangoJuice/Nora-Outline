@@ -1,16 +1,19 @@
 header {
     /* width: 100%; */
     /* background-color: aqua; */
+    margin-top: 40px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    /* align-items: center; */
+    align-items: center;
     /* align-content: flex-end; */
 
 }
 
 body{
-    background-image: url(https://i.pinimg.com/originals/d2/50/8f/d2508f54c7fbcd727037b86a916d3cff.jpg)
+    background-image: url(https://i.pinimg.com/originals/d2/50/8f/d2508f54c7fbcd727037b86a916d3cff.jpg);
+    background-repeat: none;
+    background-size: cover;
 }
 
 .logo{
